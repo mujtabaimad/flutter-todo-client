@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48727204072",
+    "firebase_url": "https://mujtabatodoapp.firebaseio.com",
+    "project_id": "mujtabatodoapp",
+    "storage_bucket": "mujtabatodoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48727204072:android:ed8d465a3450dea368295d",
+        "android_client_info": {
+          "package_name": "com.mujtaba.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48727204072-1cosjdg1d0gmb5an8ak0igogkiqevgsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83PupYwftDtmgh3Ku-ccmrN619uEW_iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48727204072-1cosjdg1d0gmb5an8ak0igogkiqevgsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
