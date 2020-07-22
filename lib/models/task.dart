@@ -9,4 +9,7 @@ class Task {
   toggleIsFinished() {
     isFinished = !isFinished;
   }
+  changeTextValue(newValue){
+    text = newValue;
+  }
 }
